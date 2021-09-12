@@ -1,0 +1,546 @@
+
+
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+ 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ALJAZEERA TV ARABIC
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/3Oe7G2E3rU/master.m3u8
+
+#EXTINF:1 tvg-logo="http://1.1.1.2:3500/channelLogo/Sony_HD.png" group-title="Entertainment",Sony HD 
+http://1.1.1.2:3500/getm3u8/291/Sony_HD/yes
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SONY ENTERTAINMENT HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SONY MAX HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#EXTINF:1 tvg-logo="http://1.1.1.2:3500/channelLogo/Colors_HD.png" group-title="Entertainment",Colors HD 
+http://1.1.1.2:3500/getm3u8/144/Colors_HD/yes
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SONY PIX HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
+#EXTINF:1 tvg-logo="http://1.1.1.2:3500/channelLogo/Animal_Planet_Hindi.png" group-title="Infotainment",Animal Planet Hindi 
+http://1.1.1.2:3500/getm3u8/566/Animal_Planet_Hindi/no
+#EXTINF:1 tvg-logo="http://1.1.1.2:3500/channelLogo/Discovery_Channel_Hindi.png" group-title="Infotainment",Discovery Channel Hindi 
+http://1.1.1.2:3500/getm3u8/575/Discovery_Channel_Hindi/no
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HUM HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/h5T18oYbas/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HUM MASALA
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/uRdwlkNe1U/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SAB TV
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,GEM TV
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/agmwLb8LUD/master.m3u8
+
+#EXTINF: -1 tvg-id="011" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3seVNnvAgJgrbHf9uQxWn9rLAdxB9LHv1w&usqp=CAU" group-title="Sneh Kids", Marvel HQ Hindi
+http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="001" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Sneh Kids", Nick Hindi
+http://70.39.83.58:8278/nickhindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="002" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Sneh Kids", Pogo Hindi
+http://70.39.83.58:8278/pogohindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
+https://github.com/techiesneh
+
+#EXTINF: -1 tvg-id="003" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Sneh Kids", Cartoon Network Hindi
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="004" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Sneh Kids", Sonic Hindi
+http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="005" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sneh Kids", Sony Yay Hindi
+http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
+https://github.com/techiesneh
+
+#EXTINF: -1 tvg-id="006" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Sneh Kids", Discovery Kids Hindi
+https://itvoign.multitvsolution.com/idvo/discoverykidshindi.m3u8
+
+#EXTINF: -1 tvg-id="007" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Sneh Kids", Nick Junior Hindi
+http://70.39.83.58:8278/nickjrhindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci9nNxZ0q978QGWLhdeDhoZhEutYybSHIAw&usqp=CAU" group-title="Sneh Kids", Disney Jr. Hindi
+http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="99" tvg-logo="https://i.ibb.co/tDy3byh/logo.webp" group-title="Sneh Kids", Techie Sneh
+https://github.com/techiesneh
+
+#EXTINF: -1 tvg-id="009" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/300px-Hungama_TV.svg.png" group-title="Sneh Kids", Hungama Hindi
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
+
+#EXTINF: -1 tvg-id="010" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmsrVpxmCYQY_ShTUOsP7w9q9rbS5PyaOKQ&usqp=CAU" group-title="Sneh Kids", WoW Kids Hindi
+http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ZEE TV
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ZEE CINEMA
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,B4U MUSIC
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CRIME INVESTIGATION
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/37MP1b7MI1/master.m3u8
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HITS HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/Lvcls9NpJT/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HITS MOVIES HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/OD8M4673DS/master.m3u8
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,COLOURS HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CINEPLEX HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CINEMA EUROPE HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/Ts9R8pNNTP/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,&TV HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ANIMAX HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SMITHSONIAN CHANNEL HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/Ffcnij939j/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC EARTH HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DA-VINCCI KIDS
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/V5eGkRT3A1/master.m3u8
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,KBS WORLD HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FASHION TV HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/tK5q6sJXFy/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVN HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/lyQmMBq377/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TLC HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/zC2aLVTjgF/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,MARVEL HQ
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DISNEP JUNIOR
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/o6Yy0uDh9t/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DISNEP CHANNEL
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DISNEP HD INTERNATIONAL
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CBEEBIES HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/xU1wA6Ugn9/1.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ZOOMOO HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,NICK HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HGTV HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DISCOVERY HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DISCOVERY
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8 
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DISCOVERY TURBO
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DISCOVERY SCIENCE
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ANIMAL PLANET HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/WG2gcEPjHK/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,LOVE NATURE 4K
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1011/I1AjNshoqG/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,OUTDOOR CHANNEL
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TRAVEL CHANNEL HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HISTORY CHANNEL HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HISTORY 2 CHANNEL HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,PULSE
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/u7Ia7Lul0n/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,UTV MOVIES
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TEN1 HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TEN2 HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TEN3 HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SONY SIX HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,EUROSPORT HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RT WORLD HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/MDKTZ190I8/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,AXN HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ASIA NEWS
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/G25FUEJ0ZS/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TRT WORLD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/WSY0A8NJH3/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FRANCE 24
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/E8G2EHE8XS/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,LIFE NOW
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/BJIHSZ1BZ5/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,9XMUSIC
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/IfsLAAFX0s/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,9X JALWA
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/1mk8OcAGHL/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TRACE
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/hz4T0QT8JX/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,MTV INDIA HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/IAI4C6IMW6/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ICONCEPT HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/457FMV9rEm/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CMUSIC HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/GXE8736IT9/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,MTV HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/FuWgLo9sCi/1.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SAUDI QURAN
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/Wz80eJ0B7o/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SAUDI  2
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/Fnyy4wl9fn/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SAUDI 
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/gKb5lFwWql/master.m3u8
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FIX-FOXI
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/5drgr6d9GQ/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TV5MONDE
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/ffhFUWPv6j/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,LIFE TIME
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/q1QsHkGgzx/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TIMES NOW
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/4z9ybhTVhq/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TRT WORLD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/BE4X3XljAd/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FRANCE 24
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/3Oe7G2E3rU/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HIGHLIGHT
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/RNWKSRSXUP/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,ENGLISH CLUB
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/ZR0CH36G6X/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BABY FIRST
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/9J8wEl5SId/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,DW
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/QeaHKk2Z7w/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,STYLE
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/1009/QX4NI7GVOA/master.m3u8
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FOOD NETWORK HD
+#EXTVLCOPT:program=1
+https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
+
